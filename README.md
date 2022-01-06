@@ -8,6 +8,8 @@ This repository contains the setup batch files and instructions to setup the dro
 
 Unfortunately, SAVED does not currently provide a guide to download the files necessary for Mac OS X or Linux (but will soon!). If you want to download these files for Linux or Mac OS X, follow these guides by PX4: <a href="https://docs.px4.io/master/en/dev_setup/dev_env.html" target="_blank">Developer Toolchain</a>, <a href="https://docs.px4.io/master/en/dev_setup/building_px4.html" target="_blank">Building PX4 Software</a>
 
+Windows 11 does not work either.
+
 **Setup**
 
 This repository will download jMAVSim, QGroundControl and PX4-Autopilot.
