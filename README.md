@@ -31,3 +31,7 @@ To run the drone, do the following:
 3. QGroundControl and a visualization of the drone (jMAVSim) will pop up. You are now ready to command the drone!
 4. You can arm, disarm, takeoff, land, plan routes and more using QGroundControl, or in the PX4 shell. For further help, refer to the <a href="https://docs.qgroundcontrol.com/master/en/index.html" target="_blank">QGroundControl guide</a> and the <a href="https://github.com/px4/jMAVSim" target="_blank">jMAVSim guide</a>
 5. Have fun!
+
+**If you run into problems**
+
+Contact Disastair at help@disastair.com (coming soon)
