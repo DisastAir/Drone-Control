@@ -2,7 +2,7 @@
 
 Smart Autonomous Visual Emergency Drone (SAVED) is a powerful and intelligent drone that collects data at the outset of natural disasters to coordinate and aid in emergency rescue, logistics and supplies. SAVED operates disaster stricken areas on short notice, in cooperation with local governments and international aid organizations.
 
-This repository contains the setup batch files and instructions to setup the drone control program on the operator's computer.
+This repository contains the batch files and instructions to setup the drone control program on the operator's computer.
 
 **Requirements**
 
