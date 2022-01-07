@@ -12,7 +12,7 @@ Windows 11 does not work either.
 
 **Setup**
 
-This repository will download jMAVSim, QGroundControl and PX4-Autopilot.
+This repository will download jMAVSim, QGroundControl, GStreamer and PX4-Autopilot.
 
 1. Download or clone this repository to your computer
 2. Open the Command Prompt by searching CMD on your Windows searchbar. Make sure to "Run as administrator".
