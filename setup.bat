@@ -10,6 +10,13 @@
 @echo Setup jMAVSim
 @C:\PX4+Windows+Cygwin+Toolchain.msi
 
+@echo Downloading GStreamer
+@bitsadmin.exe /transfer "GStreamer 1 (Choose complete installation) " https://gstreamer.freedesktop.org/data/pkg/windows/1.18.1/msvc/gstreamer-1.0-devel-msvc-x86_64-1.18.1.msi C:\gstreamer-1.0-devel-msvc-x86_64-1.18.1.msi
+@bitsadmin.exe /transfer "GStreamer 2 (Choose complete installation) " https://gstreamer.freedesktop.org/data/pkg/windows/1.18.1/msvc/gstreamer-1.0-msvc-x86_64-1.18.1.msi C:\gstreamer-1.0-msvc-x86_64-1.18.1.msi
+@echo Setup GStreamer (Make sure to choose complete installation)
+@C:\gstreamer-1.0-devel-msvc-x86_64-1.18.1.msi
+@C:\gstreamer-1.0-msvc-x86_64-1.18.1.msi
+
 @echo Downloading Git
 @bitsadmin.exe /transfer "jMAVSim" https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe C:\Git-2.34.1-64-bit.exe
 @echo Setup Git
