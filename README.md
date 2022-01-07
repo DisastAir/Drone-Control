@@ -28,8 +28,9 @@ To run the drone, do the following:
 1. Once in this directory, type "run.bat" and press enter
 2. In the Cygwin shell type "cd PX4-Autopilot" and then "make px4_sitl jmavsim"
 3. QGroundControl and a visualization of the drone (jMAVSim) will pop up. You are now ready to command the drone!
-4. You can arm, disarm, takeoff, land, plan routes and more using QGroundControl, or in the PX4 shell. For further help, refer to the <a href="https://docs.qgroundcontrol.com/master/en/index.html" target="_blank">QGroundControl guide</a> and the <a href="https://github.com/px4/jMAVSim" target="_blank">jMAVSim guide</a>
-5. Have fun!
+4. To enable camera stream, go to general settings in QGC, click on video and choose "UDP h.265 Video Stream." Go back to the main screen.
+5. You can arm, disarm, takeoff, land, plan routes and more using QGroundControl, or in the PX4 shell. For further help, refer to the <a href="https://docs.qgroundcontrol.com/master/en/index.html" target="_blank">QGroundControl guide</a> and the <a href="https://github.com/px4/jMAVSim" target="_blank">jMAVSim guide</a>
+6. Have fun!
 
 **If you run into problems**
 
